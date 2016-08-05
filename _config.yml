@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-  video:
-    title: video
+  videos:
+    title: Videos
     output: true
 defaults:
 - scope:

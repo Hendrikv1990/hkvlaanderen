@@ -6,3 +6,7 @@ Field name:
 
 # Home
 ### to my love
+
+{% for video in site.videos %}
+  <h2>{{ video.title }}</h2>
+{% endfor %}
